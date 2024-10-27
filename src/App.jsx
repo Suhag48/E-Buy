@@ -38,7 +38,7 @@ import Footer from "./components/footer/Footer";
 
 // protected component
 import ProtectedAdmin from "./components/protected/Admin";
-import ProtectedUser from "./components/protected/user";
+import ProtectedUser from "./components/protected/User";
 
 const App = () => {
   const [isClick, setIsClick] = useState(false);
